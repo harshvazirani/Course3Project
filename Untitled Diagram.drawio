@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-03T10:48:09.774Z" agent="5.0 (Windows)" etag="qpG7E5E_91IByY3HKl8x" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-03T10:49:46.767Z" agent="5.0 (Windows)" etag="zKhwwbL9W4ZM_wwp5P8M" version="14.4.8" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1221" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -199,6 +199,9 @@
             <mxPoint x="640" y="460" as="sourcePoint" />
             <mxPoint x="750" y="500" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HBkLeVU5GFFPTy2UnmNG-82" value="Activity Diagram 1 : Restaurant Finder" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="164.5" y="80" width="835.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
